@@ -24,11 +24,6 @@
 <br />
 <br />
 
-![snake gif](https://github.com/emrygtt/emrygtt/blob/output/github-contribution-grid-snake.gif)
-
-<br />
-<br />
-
 <a href="https://github.com/emrygtt/emrygtt">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=emrygtt&show_icons=true&theme=cobalt&count_private=true" />
 </a>
