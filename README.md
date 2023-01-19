@@ -24,10 +24,6 @@
 <br />
 <br />
 
-<a href="https://github.com/emrygtt/emrygtt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emrygtt&show_icons=true&theme=cobalt&count_private=true" />
-</a>
-<br></br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrygtt&layout=compact)](https://github.com/emrygtt/github-readme-stats)
 
