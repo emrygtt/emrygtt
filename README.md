@@ -25,6 +25,6 @@
 <br />
 
 [instagram]: https://instagram.com/emrygtt/
-[linkedin]: https://linkedin.com/in/emryigit/
+[linkedin]: https://linkedin.com/in/emrygtt/
 
 
